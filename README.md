@@ -31,10 +31,10 @@ This repository contains the artifacts for the paper "On Writing Alloy Models: M
 
 ## Preparing the environment
 - **Alloy4Fun Dataset**
-    - Download the Alloy4Fun dataset from [https://zenodo.org/records/8123547](https://zenodo.org/records/8123547)
+    - Download the Alloy4Fun dataset from [https://doi.org/10.5281/zenodo.8123547](https://doi.org/10.5281/zenodo.8123547)
     - All the json files should be placed in the `data/json/a4f` folder
 - **FMP Dataset**
-    - Download the FMP dataset from [https://zenodo.org/records/14865553](https://zenodo.org/records/14865553)
+    - Download the FMP dataset from [https://doi.org/10.5281/zenodo.14865553](https://doi.org/10.5281/zenodo.14865553)
     - All the json files should be placed in the `data/json/fmp.json` 
 
 ## Running the analysis
