@@ -61,7 +61,7 @@ def identical_files(edit_path_file: str):
                 consecutive_identical.append(file)
 
             # Check for non-consecutive identical files
-            if file_hash in seen_hashes:
+            elif file_hash in seen_hashes:
                 non_consecutive_identical.append(file)
 
             seen_hashes.add(file_hash)
