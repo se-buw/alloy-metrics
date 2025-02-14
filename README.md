@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains the artifacts for the paper "On Writing Alloy Models: Metrics and a new Dataset" submitted to the 11th International Conference on Rigorous State Based Methods (ABZ). The repository contains the following structure:
 
-```bash
+```
 +---analysis    # Python scripts used to analyze the data
 |       a4f_model_analysis.py
 |       ...
